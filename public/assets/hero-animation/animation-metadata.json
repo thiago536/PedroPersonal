@@ -1,0 +1,22 @@
+{
+  "totalFrames": 59,
+  "frameWidth": 1280,
+  "frameHeight": 720,
+  "spriteWidth": 12800,
+  "spriteHeight": 4320,
+  "columns": 10,
+  "rows": 6,
+  "fps": 60,
+  "walkPhase": {
+    "start": 0,
+    "end": 45
+  },
+  "transitionPhase": {
+    "start": 46,
+    "end": 50
+  },
+  "posePhase": {
+    "start": 51,
+    "end": 58
+  }
+}
