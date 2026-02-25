@@ -1,16 +1,48 @@
-# React + Vite
+<h1 align="center">
+  <img src="./public/favicon.png" width="80px" alt="Pedro Silva Logo" />
+  <br>
+  Pedro Silva Personal Trainer
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Lançado-success?style=for-the-badge" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <strong>Landing Page de alta conversão para suporte a consultoria online e presencial.</strong>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
+- **Conversão Direta:** Integração fluida com WhatsApp para fechamento de vendas imediata.
+- **Experiência Interativa:** Comparativo Antes/Depois interativo para demonstração de resultados.
+- **Interface Premium:** Design dark mode sofisticado com animações suaves influenciadas pela biomecânica.
+- **Mobile First:** Totalmente responsivo para garantir acessos em qualquer dispositivo.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Demo
+🔗 [Acesse o site em produção aqui](https://pedrosilvapersonal.netlify.app/)
 
-## Expanding the ESLint configuration
+![Hero Section](./public/assets/pedro-hero.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Stack
+| Camada | Tecnologia |
+|--------|------------|
+| Core | React 19 + Vite |
+| Estilização | Tailwind CSS |
+| Animações | Framer Motion |
+| Ícones | Lucide React |
+
+## ⚡ Instalação rápida
+```bash
+git clone https://github.com/thiago536/PedroPersonal
+cd PedroPersonal
+npm install
+npm run dev
+```
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
